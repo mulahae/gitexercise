@@ -1,1 +1,2 @@
 file B is here
+file B is edited
