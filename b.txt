@@ -1,2 +1,2 @@
-file B is here
+Main BBBBBBBBBBB
 file B is edited
